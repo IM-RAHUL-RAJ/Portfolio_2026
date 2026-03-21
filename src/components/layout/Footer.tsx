@@ -1,11 +1,10 @@
 import { motion } from 'framer-motion';
-import { Github, Linkedin, Mail, Terminal, Twitter } from 'lucide-react';
+import { Github, Linkedin, Mail, Terminal } from 'lucide-react';
 
 const socialLinks = [
-  { icon: Github, href: "https://github.com/abhishekmishra28", label: "GitHub" },
-  { icon: Linkedin, href: "https://linkedin.com/in/abhishekmishra028", label: "LinkedIn" },
-  { icon: Twitter, href: "https://twitter.com/kr_abhi__", label: "Twitter" },
-  { icon: Mail, href: "mailto:abhishekltr2002@gmail.com", label: "Email" },
+  { icon: Github, href: "https://github.com/IM-RAHUL-RAJ", label: "GitHub" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/rahulraj75/", label: "LinkedIn" },
+  { icon: Mail, href: "mailto:rahuldps3313@gmail.com", label: "Email" },
 ];
 
 const quickLinks = [
@@ -92,7 +91,7 @@ export const Footer = () => {
         <div className="pt-8 border-t border-border">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-sm text-muted-foreground text-center md:text-left">
-              © {new Date().getFullYear()} Abhishek Kumar Mishra | All rights reserved.
+              © {new Date().getFullYear()} Rahul Raj | All rights reserved.
             </p>
           </div>
         </div>
