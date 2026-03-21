@@ -127,7 +127,7 @@ export const Certifications = () => {
           {certifications.map((cert, index) => (
             <motion.a
               key={cert.title}
-              href={cert.url}
+              // href={cert.url}
               target="_blank"
               rel="noopener noreferrer"
               initial={{ opacity: 0, y: 30 }}
