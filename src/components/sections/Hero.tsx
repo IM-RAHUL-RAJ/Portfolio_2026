@@ -4,9 +4,9 @@ import { Eye, Github, Linkedin, Mail } from 'lucide-react';
 import { useEffect, useState } from "react";
 
 const socialLinks = [
-  { icon: Github, href: 'https://github.com/abhishekmishra28', label: 'GitHub' },
-  { icon: Linkedin, href: 'https://linkedin.com/in/abhishekmishra028', label: 'LinkedIn' },
-  { icon: Mail, href: 'mailto:abhishekltr2002@gmail.com', label: 'Email' },
+ { icon: Github, href: "https://github.com/IM-RAHUL-RAJ", label: "GitHub" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/rahulraj75/", label: "LinkedIn" },
+  { icon: Mail, href: "mailto:rahuldps3313@gmail.com", label: "Email" },
 ];
 
 export const Hero = () => {

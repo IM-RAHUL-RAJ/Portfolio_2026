@@ -364,7 +364,7 @@ Have questions or suggestions? Feel free to reach out or open an issue on GitHub
 ---
 
 <p align="center">
-  Built with ❤️ by Abhishek kr. Mishra, for developers
+  Built with ❤️ by Rahul Raj, for developers
 </p>
 
 <p align="center">
